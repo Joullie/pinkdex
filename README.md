@@ -1,7 +1,9 @@
 # PinkDex
-Pokédex desenvolvida em HTML, CSS e JavaScript. Ironias à parte, criada para fazer ponto no bingo do dev iniciante. || <a href="https://pinkdex-three.vercel.app/">Live Preview</a>
+Pokédex desenvolvida em HTML, CSS e JavaScript. Ironias à parte, criada para fazer ponto no bingo do dev iniciante. 
+
 - WIP: Função de busca por nome e tipo de Pokémon.
 - API consumida: <a href="https://pokeapi.co/">PokéAPI</a>
+- <a href="https://pinkdex-three.vercel.app/">Live Preview</a>
 
 ##
 
